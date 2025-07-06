@@ -13,13 +13,13 @@
       "label": "Favicon"
     },
     {
-      "src": "public/assets/icons/265x265logo.png",
+      "src": "public/assets/265x265logo.png",
       "sizes": "265x265",
       "type": "image/png",
       "label": "Android high-density (hdpi) icon"
     },
     {
-      "src": "public/assets/icons/512x512logo.png",
+      "src": "public/assets/512x512logo.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable",
