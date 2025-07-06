@@ -14,7 +14,7 @@
     },
     {
       "src": "public/assets/265x265logo.png",
-      "sizes": "265x265",
+      "sizes": "256x256",
       "type": "image/png",
       "label": "Android high-density (hdpi) icon"
     },
@@ -22,7 +22,7 @@
       "src": "public/assets/512x512logo.png",
       "sizes": "512x512",
       "type": "image/png",
-      "purpose": "any maskable",
+      "purpose": "any",
       "label": "Pwa Icon"
     }
   ],
