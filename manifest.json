@@ -13,13 +13,13 @@
       "label": "Favicon"
     },
     {
-      "src": "assets/icons/265x265logo.png",
+      "src": "public/assets/icons/265x265logo.png",
       "sizes": "265x265",
       "type": "image/png",
       "label": "Android high-density (hdpi) icon"
     },
     {
-      "src": "assets/icons/512x512logo.png",
+      "src": "public/assets/icons/512x512logo.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable",
@@ -28,21 +28,21 @@
   ],
   "screenshots": [
     {
-      "src": "assets/screenshots/screenshot1.png",
+      "src": "public/assets/screenshots/screenshot1.png",
       "sizes": "540x720",
       "type": "image/png",
       "label": "Main dashboard",
       "form_factor": "wide"
     },
     {
-      "src": "assets/screenshots/screenshot2.png",
+      "src": "public/assets/screenshots/screenshot2.png",
       "sizes": "540x720",
       "type": "image/png",
       "label": "Workflow editor",
       "form_factor": "wide"
     },
     {
-    "src": "assets/screenshots/phone.png",
+    "src": "public/assets/screenshots/phone.png",
     "sizes": "360x640",
     "type": "image/png",
     "label": "Mobile interface"
